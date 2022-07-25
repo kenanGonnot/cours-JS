@@ -1,0 +1,11 @@
+{
+  "name": "cours-js",
+  "version": "1.0.0",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  },
+  "scripts": {
+    "test": "jest --watchAll --verbose",
+    "test:cov":"jest --coverage"
+  }
+}
